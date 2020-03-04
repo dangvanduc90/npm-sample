@@ -1,6 +1,6 @@
 {
   "name": "ducdv-sample-npm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "sample-npm by dangvanduc90",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "homepage": "http://www.nettruyen.com/",
   "keywords": [
     "Baokim",
-    "BaokimSDK",
+    "BaokimSDK"
   ],
   "author": {
     "name": "Dang Van Duc",
