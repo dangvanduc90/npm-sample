@@ -1,0 +1,33 @@
+{
+  "name": "ducdv-sample-npm",
+  "version": "1.0.0",
+  "description": "sample-npm by dangvanduc90",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangvanduc90/npm-sample"
+  },
+  "homepage": "http://www.nettruyen.com/",
+  "keywords": [
+    "Baokim",
+    "BaokimSDK",
+  ],
+  "author": {
+    "name": "Dang Van Duc",
+    "email": "dangvanduc0@gmail.com",
+    "url": "https://github.com/dangvanduc90"
+  },
+  "bugs": {
+    "url": "https://github.com/dangvanduc90/npm-sample"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
